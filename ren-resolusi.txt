@@ -1,0 +1,8 @@
+TIM SCHOOLER ID
+- Belajar git & github
+- Crud input nilai oleh guru, tampilan table seperti excel terdapat kolom pengisian untuk nilai harian, pts, pas, yang nilai tersebut dapat dipilih diambil dari schooler atau input manual
+- Tampilan CBT ujian pilihan ganda dan interaksi lainnya
+- Tampilan hasil ujian terdapat nilai user, dan semua siswa sekaligus terdapat urutan peringkat
+- Membuat soal CBT untuk guru seperti google form.  Terdapat beberapa tipe soal (soal text, gambar, audio, video, interaksi). Dan dapat menentukan kunci jawaban + nilai yang akan di dapatkan jika jawaban benar
+- Membuat halaman untuk guru, daftar laporan nilai dari setiap ujian untuk Semua siswa
+- Membuat halaman riwayat pengerjaan ujian untuk setiap siswa

@@ -3,3 +3,4 @@ Halo pak, salam kenal saya Reny Tuji Agustin dari Gresik
 resolusi:
 - membuat website membuat framework javascript
 - mahasiswa qomaruddin
+- menulis keseharian dihari hari kuliah
